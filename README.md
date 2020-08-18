@@ -1,2 +1,2 @@
 # prometheus
-prometheus rules
+Prometheus报警规则
